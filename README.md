@@ -1,3 +1,3 @@
-# student-success - 
+# Expulsion in California: 
 
-The complete project files are found in the "notebooks" folder.
+Please view the "notebooks" folder for complete project
